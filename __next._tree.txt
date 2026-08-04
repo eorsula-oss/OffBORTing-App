@@ -1,2 +1,2 @@
-:HL["/OffBORTing-App/_next/static/chunks/08ba.36vf_i~e.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"l4vesRVXFwKGuA2QgV4Cv"}
+:HL["/OffBORTing-App/_next/static/chunks/08ws8f2fhu_9n.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"G_cvGu8zgy8YwC3C10V0i"}
