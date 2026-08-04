@@ -1,4 +1,4 @@
-const CACHE="offborting-v9";
+const CACHE="offborting-v10";
 const ROOT=new URL("./",self.location).pathname.replace(/\/$/,"");
 const ASSETS=[`${ROOT}/`,`${ROOT}/manifest.webmanifest`,`${ROOT}/icon-192.png`,`${ROOT}/icon-512.png`,`${ROOT}/assets/yellow.webp`,`${ROOT}/assets/people.webp`,`${ROOT}/assets/future.webp`,`${ROOT}/assets/challenges.webp`];
 self.addEventListener("install",event=>{self.skipWaiting();event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(ASSETS)))});
